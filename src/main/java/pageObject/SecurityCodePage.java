@@ -17,5 +17,5 @@ public class SecurityCodePage {
 	@AndroidFindBy(id = "ovo.id:id/pin_entry")
 	public WebElement pin;
 
-	// 
+	// ovo.id:id/btn_resend_sms_login / ovo.id:id/pin_entry / android.widget.EditText
 }

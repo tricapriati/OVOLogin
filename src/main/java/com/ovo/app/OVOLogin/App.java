@@ -13,7 +13,7 @@ import pageObject.SecurityCodePage;
 
 public class App extends base
 {
-    public static void main( String[] args ) throws IOException
+    public static void main( String[] args ) throws IOException, InterruptedException
     {
     	AndroidDriver<AndroidElement> driver = Capabilities("ApkName");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -31,6 +31,8 @@ public class App extends base
 		LoginPage loginPage = new LoginPage(driver);
 		loginPage.account.sendKeys(general.getNoTelpon());
 		loginPage.btnSignIn.click();
+
+		Thread.sleep(3000);
 		
 		// Security Code Page
 		SecurityCodePage codePage = new SecurityCodePage(driver);

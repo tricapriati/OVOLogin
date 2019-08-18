@@ -55,6 +55,8 @@ public class LoginFlowTest extends base {
 			loginPage.account.sendKeys(general.getNoTelpon());
 			loginPage.btnSignIn.click();
 			
+			Thread.sleep(3000);
+			
 			// Security Code Page
 			SecurityCodePage codePage = new SecurityCodePage(driver);
 			codePage.pin.sendKeys(general.getPin());

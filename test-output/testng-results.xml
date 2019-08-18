@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="46506" started-at="2019-08-18T09:43:47Z" finished-at="2019-08-18T09:44:34Z">
+  <suite name="Suite" duration-ms="44127" started-at="2019-08-18T14:17:03Z" finished-at="2019-08-18T14:17:47Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="46506" started-at="2019-08-18T09:43:47Z" finished-at="2019-08-18T09:44:34Z">
+    <test name="Test" duration-ms="44127" started-at="2019-08-18T14:17:03Z" finished-at="2019-08-18T14:17:47Z">
       <class name="com.ovo.app.OVOLogin.LoginFlowTest">
-        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:com.ovo.app.OVOLogin.LoginFlowTest@5cee5251]" name="killAllNodes" is-config="true" duration-ms="3021" started-at="2019-08-18T09:43:47Z" finished-at="2019-08-18T09:43:50Z">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:com.ovo.app.OVOLogin.LoginFlowTest@5cee5251]" name="killAllNodes" is-config="true" duration-ms="3023" started-at="2019-08-18T14:17:03Z" finished-at="2019-08-18T14:17:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- killAllNodes -->
-        <test-method status="PASS" signature="loginFlow()[pri:0, instance:com.ovo.app.OVOLogin.LoginFlowTest@5cee5251]" name="loginFlow" duration-ms="43371" started-at="2019-08-18T09:43:50Z" finished-at="2019-08-18T09:44:33Z">
+        <test-method status="PASS" signature="loginFlow()[pri:0, instance:com.ovo.app.OVOLogin.LoginFlowTest@5cee5251]" name="loginFlow" duration-ms="40991" started-at="2019-08-18T14:17:06Z" finished-at="2019-08-18T14:17:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginFlow -->
