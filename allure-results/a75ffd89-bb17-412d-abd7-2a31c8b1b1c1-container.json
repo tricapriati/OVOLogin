@@ -1,0 +1,1 @@
+{"uuid":"a75ffd89-bb17-412d-abd7-2a31c8b1b1c1","name":"Command line test","children":["c14cf93b-96ee-4ae2-b3d4-ed539dfbd142"],"befores":[{"name":"killAllNodes","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1566120787943,"stop":1566120790953}],"afters":[],"links":[],"start":1566120787926,"stop":1566120825542}

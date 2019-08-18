@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46506" started-at="2019-08-18T09:43:47Z" finished-at="2019-08-18T09:44:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46506" started-at="2019-08-18T09:43:47Z" finished-at="2019-08-18T09:44:34Z">
+      <class name="com.ovo.app.OVOLogin.LoginFlowTest">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:com.ovo.app.OVOLogin.LoginFlowTest@5cee5251]" name="killAllNodes" is-config="true" duration-ms="3021" started-at="2019-08-18T09:43:47Z" finished-at="2019-08-18T09:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="loginFlow()[pri:0, instance:com.ovo.app.OVOLogin.LoginFlowTest@5cee5251]" name="loginFlow" duration-ms="43371" started-at="2019-08-18T09:43:50Z" finished-at="2019-08-18T09:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlow -->
+      </class> <!-- com.ovo.app.OVOLogin.LoginFlowTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

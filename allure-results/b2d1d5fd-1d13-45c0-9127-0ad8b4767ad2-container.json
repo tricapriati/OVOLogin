@@ -1,0 +1,1 @@
+{"uuid":"b2d1d5fd-1d13-45c0-9127-0ad8b4767ad2","name":"Test","children":["b660a78d-7364-49ac-9c08-6bed2e8199ca"],"befores":[{"name":"killAllNodes","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1566121427523,"stop":1566121430535}],"afters":[],"links":[],"start":1566121427502,"stop":1566121474012}
