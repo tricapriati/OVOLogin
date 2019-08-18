@@ -2,8 +2,8 @@ package com.ovo.app.OVOLogin;
 
 public class GeneralParameter {
 
-	private String noTelpon = "087821756931";
-	public String pin= "260186";
+	private String noTelpon = ""; // diisi sesuai nomer hp yang terdaftar
+	public String pin= ""; 
 	
 	public String getNoTelpon() {
 		return noTelpon;
